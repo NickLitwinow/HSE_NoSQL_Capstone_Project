@@ -10,6 +10,7 @@
 - name
 - phone
 - registrationDate (registration date)
+
 ***Products:***
 - _id (unique product identifier)
 - category
@@ -19,6 +20,7 @@
 - reviews
 - stock
 - specifications (technical specifications)
+
 ***Orders:***
 - _id (unique order identifier)
 - customerId (reference to the customer document)
