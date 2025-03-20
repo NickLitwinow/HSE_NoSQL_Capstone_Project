@@ -3,6 +3,7 @@
 **Project Goal**: Design and implement a non-relational database using MongoDB for an online electronics store, where customers can place orders with home delivery. The database should account for the product range, customer data, orders, and also provide the capability for sales analysis and handling reviews.
 
 **Main Collections**
+
 ***Customers:***
 - _id (unique customer identifier)
 - address
