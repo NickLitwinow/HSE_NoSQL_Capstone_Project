@@ -29,4 +29,5 @@
 - deliveryDate (ожидаемая/фактическая дата доставки)
 
 **Диаграмма БД:**
+
 <img width="567" alt="Screenshot 2025-03-20 at 21 39 55" src="https://github.com/user-attachments/assets/406046b8-edbc-41d8-b8dd-67d97cc331c4" />
