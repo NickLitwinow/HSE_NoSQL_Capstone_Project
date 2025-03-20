@@ -55,7 +55,7 @@
 <img width="1080" alt="Screenshot 2025-03-20 at 22 05 36" src="https://github.com/user-attachments/assets/d2e6c069-09e2-4d79-8512-7aa441e008c2" />
 
 - Select all orders for a specific customer:
-<img width="1078" alt="Screenshot 2025-03-20 at 22 05 54" src="https://github.com/user-attachments/assets/8b1a123c-3f9d-4ab3-8334-ec3ef6cd44df" />
+<img width="1078" alt="Screenshot 2025-03-20 at 22 08 33" src="https://github.com/user-attachments/assets/05b2fec5-9e51-45f8-a18a-b199dafb17e8" />
 
 - Retrieve orders within a specified period:
 <img width="1080" alt="Screenshot 2025-03-20 at 22 06 18" src="https://github.com/user-attachments/assets/e455dcdd-3d2a-41d8-9659-e3d8785691bc" />
