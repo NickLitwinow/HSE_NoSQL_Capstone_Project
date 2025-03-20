@@ -1,0 +1,11 @@
+services:
+  mongodb:
+    image: mongo:6.0
+    container_name: electronics_store_mongodb
+    restart: always
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./data/mongo:/data/db
+    environment:
+      MONGO_INITDB_DATABASE: electronics_store_db
