@@ -46,31 +46,31 @@
 
 **Individual Queries**
 - Search for a product by partial name match:
-<img width="1079" alt="Screenshot 2025-03-20 at 21 57 56" src="https://github.com/user-attachments/assets/07c81b5a-29ee-4a0c-aafc-f42eb24592c4" />
+<img width="1078" alt="Screenshot 2025-03-20 at 22 04 43" src="https://github.com/user-attachments/assets/3ab62b39-c2ad-4843-97f5-09c3f1dfd1a4" />
 
-- Search for products by category.
-<img width="1082" alt="Screenshot 2025-03-20 at 21 58 26" src="https://github.com/user-attachments/assets/52bf6930-465b-4e86-a2aa-4e29d982cd01" />
+- Search for products by category:
+<img width="1078" alt="Screenshot 2025-03-20 at 22 05 21" src="https://github.com/user-attachments/assets/03b89197-1010-400d-98bc-7b7ce52f3273" />
 
-- Retrieve detailed information about a product using its ObjectId.
-<img width="1077" alt="Screenshot 2025-03-20 at 21 59 05" src="https://github.com/user-attachments/assets/69ade102-5c0e-4ac9-9f67-6d884e73d4a1" />
+- Retrieve detailed information about a product using its ObjectId:
+<img width="1080" alt="Screenshot 2025-03-20 at 22 05 36" src="https://github.com/user-attachments/assets/d2e6c069-09e2-4d79-8512-7aa441e008c2" />
 
-- Select all orders for a specific customer.
-<img width="1077" alt="Screenshot 2025-03-20 at 21 59 41" src="https://github.com/user-attachments/assets/bd3d8e3e-6701-45cb-b748-da7a08a9c9e8" />
+- Select all orders for a specific customer:
+<img width="1078" alt="Screenshot 2025-03-20 at 22 05 54" src="https://github.com/user-attachments/assets/8b1a123c-3f9d-4ab3-8334-ec3ef6cd44df" />
 
-- Retrieve orders within a specified period.
-<img width="1081" alt="Screenshot 2025-03-20 at 22 00 15" src="https://github.com/user-attachments/assets/31becdf9-f9a2-4ef3-a39b-58650b20566e" />
+- Retrieve orders within a specified period:
+<img width="1080" alt="Screenshot 2025-03-20 at 22 06 18" src="https://github.com/user-attachments/assets/e455dcdd-3d2a-41d8-9659-e3d8785691bc" />
 
-- Counting the number of orders with status “delivered”.
-<img width="795" alt="Screenshot 2025-03-20 at 22 01 20" src="https://github.com/user-attachments/assets/bb84d42f-e472-4a39-b4c5-b4de8c367986" />
+- Counting the number of orders with status “delivered”:
+<img width="787" alt="Screenshot 2025-03-20 at 22 06 31" src="https://github.com/user-attachments/assets/5a611773-d5c3-4ed8-ad7d-d0c76be52173" />
 
-- Calculating the average order amount.
-<img width="1009" alt="Screenshot 2025-03-20 at 22 01 41" src="https://github.com/user-attachments/assets/85cedb78-0177-4c04-a403-ff0b58a5c0aa" />
+- Calculating the average order amount:
+<img width="1005" alt="Screenshot 2025-03-20 at 22 06 40" src="https://github.com/user-attachments/assets/fe69c121-492f-457b-950e-1ee4522ea141" />
 
-- Updating the order status.
-<img width="729" alt="Screenshot 2025-03-20 at 22 02 10" src="https://github.com/user-attachments/assets/54994fc3-e265-441e-b87b-572d1ded2f83" />
+- Updating the order status:
+<img width="725" alt="Screenshot 2025-03-20 at 22 07 08" src="https://github.com/user-attachments/assets/f6c17ea2-581b-48fb-8838-71feb1c6e819" />
 
-- Adding a review to a product.
-<img width="1084" alt="Screenshot 2025-03-20 at 22 02 40" src="https://github.com/user-attachments/assets/ece70e5d-4d5b-4c7e-9838-f9acf1af6e3a" />
+- Adding a review to a product:
+<img width="1076" alt="Screenshot 2025-03-20 at 22 07 19" src="https://github.com/user-attachments/assets/46c55de9-b4ee-4dce-95de-85d391d43334" />
 
-- Calculating total revenue for each product.
-<img width="1078" alt="Screenshot 2025-03-20 at 22 03 08" src="https://github.com/user-attachments/assets/123a56a0-5b43-4ad8-80a5-a567ee3bb032" />
+- Calculating total revenue for each product:
+<img width="1077" alt="Screenshot 2025-03-20 at 22 07 31" src="https://github.com/user-attachments/assets/d8d7e806-b80c-4c9c-9ef4-a313e1d7384c" />
